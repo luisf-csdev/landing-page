@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "SF Pixelate";
+    src: url(./assets/fonts/SF\ Pixelate.ttf);
+}
+
+body {
+    background-color: black;
+    font-family: "SF Pixelate", monospace;
+}
+
+.container {
+    max-width: 70rem;
+    margin: auto;
+}
+
+header {
+    box-sizing: border-box;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.title {
+    margin-top: 0;
+    font-size: 1.5rem;
+    padding: 0.3rem;
+}
+
+section {
+    background-image: url(./assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.formcontainer {
+    background-color: rgba(255, 250, 254, 0.767);
+    border-radius: 2%;
+    float: right;
+    padding: 1.5rem;
+    max-width: 20%;
+}
+
+h2 {
+    font-size: 1.2rem;
+    line-height: 1.3rem;
+}
+
+main {
+    line-height: 1.1rem;
+    font-family: "PT Mono", monospace;
+    font-size: 0.8rem;
+}
+
+.mb {
+    margin-bottom: 1rem;
+}
+
+input,
+select {
+    border: none;
+    border-radius: 0.4rem;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    margin-bottom: 0.6rem;
+    padding: 0.5rem;
+    height: 2.2rem;
+    width: 100%;
+    font-family: "PT Mono", monospace;
+
+}
+
+select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url(./assets/arrow.png);
+    background-repeat: no-repeat;
+    background-size: 1.2rem;
+    background-position: calc(100% - 10px) center;
+}
+
+input[type="submit"] {
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: medium;
+    font-family: "SF Pixelate", monospace;
+}
+
+header,
+input[type="submit"] {
+    background-color: rgb(144, 47, 224);
+}
+
+footer {
+    box-sizing: border-box;
+    background-color: #161616;
+    padding: 3rem;
+    color: white;
+    text-align: center;
+}
+
+#pic {
+    border-radius: 2%;
+    max-width: 17rem;
+    display: inline-block;
+}
+
+article {
+    display: inline-block;
+    text-align: justify;
+    margin: auto;
+    max-width: 40%;
+    margin-left: 1rem;
+}
+
+h3 {
+    font-family: "SF Pixelate", monospace;
+    font-size: 1.7rem
+}
+
+article p {
+    font-family: "PT Mono", monospace;
+}
+
+h3,
+article p {
+    margin-bottom: 1rem;
+}
+
+#excelsior {
+    font-size: 0.8rem;
+    color: #6e6d6d;
+    ;
+}
+
+@media screen and (max-width: 730px) {
+
+    .title {
+        font-size: 1.8rem;
+    }
+
+    section {
+        padding: 1.5rem;
+    }
+
+    .formcontainer {
+        float: none;
+        margin: auto;
+        max-width: 40%;
+    }
+
+    article {
+        margin-left: 0;
+        max-width: 100%;
+    }
+
+    h3 {
+        margin-top: 1rem;
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+
+    .title {
+        font-size: 1.7rem;
+    }
+
+    .formcontainer {
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+
+    .title {
+        font-size: 1.6rem;
+    }
+
+    .formcontainer {
+        max-width: 60%;
+    }
+}
+
+@media screen and (max-width: 370px) {
+
+    .title {
+        font-size: 1.5rem;
+    }
+
+    #pic {
+        max-width: 15rem;
+    }
+
+    .formcontainer {
+        max-width: 60%;
+    }
+}
+
+@media screen and (max-width: 350px) {
+
+    .title {
+        font-size: 1.3rem;
+    }
+
+    .formcontainer {
+        max-width: 70%;
+    }
+
+    footer #pic {
+        max-width: 13.5rem;
+    }
+
+    #excelsior {
+        font-size: 0.6rem;
+    }
+
+}
+
+@media screen and (max-width: 300px) {
+
+    .title {
+        font-size: 1.2rem;
+    }
+
+    .formcontainer {
+        max-width: 90%;
+    }
+
+    h2 {
+        font-size: 1rem;
+    }
+
+    footer {
+        padding: 1.2rem;
+    }
+
+    #pic {
+        max-width: 11.5rem;
+    }
+
+    #excelsior {
+        font-size: 0.5rem;
+    }
+
+}
