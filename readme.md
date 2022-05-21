@@ -39,8 +39,8 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 </h2>
 <div align="center">
     <img alt="print" width="800rem" src="./assets/img-1.png"><br>
-    <img alt="gif-1" width="500rem" src="./assets/gif-1.gif">
-    <img alt="gif-2" height="670rem" src="./assets/gif-2.gif">
+    <img alt="gif-1" width="450rem" src="./assets/gif-1.gif">
+    <img alt="gif-2" height="600rem" src="./assets/gif-2.gif">
 </div>
 
 ##
