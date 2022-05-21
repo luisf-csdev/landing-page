@@ -53,7 +53,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 <p>* If you want to use this template for your page, you'll need to create an embedded form in MailChimp with the fields you want to, after that, copy the HTML essential info (without CSS) into the template form. After that, the integration will be complete! If you have any doubts, just get a look in the code to see what to copy from MailChimp or contact me 😃</p><br>
 
 <h2>💽 Tech Stack</h2>
-<h3>The following languages were used to build this project:</h3>
+<h4>The following languages were used to build this project:</h3>
 <span>
     <img align="center" alt="luisf-html" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="luisf-css" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
