@@ -15,7 +15,7 @@ It is a pc-mobile responsive template I've made. Then you could use it for your 
 Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 
 <h2>📑 Content Table</h2>
-<h3 align="center">
+<h4 align="center">
     <a href="#%EF%B8%8F-about">About</a> • 
     <a href="#-status">Status</a> •
     <a href="#-features">Features</a> •
@@ -24,7 +24,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
     <a href="#-tech-stack">Tech</a> •
     <a href="#-contribution">Contribution</a> •
     <a href="#-excelsior-code--by-luís-felipe">Ending</a>
-</h3>
+</h4>
 
 <h2>🧵 Status</h2>
 <h4>Finished ✨</h4><br>
@@ -49,7 +49,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 
 <br>
 <h2>♟️ Requisites</h2>
-<h3>To run the page all you need to do is click in the joystick on the topic above ⬆️</h3>
+<h4>To run the page all you need to do is click in the joystick on the topic above ⬆️</h4>
 <p>* If you want to use this template for your page, you'll need to create an embedded form in MailChimp with the fields you want to, after that, copy the HTML essential info (without CSS) into the template form. After that, the integration will be complete! If you have any doubts, just get a look in the code to see what to copy from MailChimp or contact me 😃</p><br>
 
 <h2>💽 Tech Stack</h2>
