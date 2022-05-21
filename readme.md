@@ -4,7 +4,9 @@
     <img src="https://img.shields.io/github/license/luisf-csdev/landing_page">
     <img src="https://img.shields.io/github/stars/luisf-csdev/landing_page">
     <img src="https://img.shields.io/github/forks/luisf-csdev/landing_page">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluisf_csdev%2Fstatus%2F1528150079672045568">
+    <a href="https://twitter.com/luisf_csdev/status/1528150079672045568" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluisf_csdev%2Fstatus%2F1528150079672045568">
+    </a>
 </div>
 
 <h2>✏️ About</h2>
