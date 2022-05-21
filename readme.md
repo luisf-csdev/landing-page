@@ -18,7 +18,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</h4><br>
     <a href="#demo">Demo</a> •
     <a href="#requisites">Requisites</a> •
     <a href="#tech">Tech</a> •
-    <a href="#contribution">Tech</a> •
+    <a href="#contribution">Contribution</a> •
 </h3><br>
 
 ##

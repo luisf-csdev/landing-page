@@ -1,8 +1,10 @@
+/* Applying to all page style */
 * {
     margin: 0;
     padding: 0;
 }
 
+/* SF Pixelate font source */
 @font-face {
     font-family: "SF Pixelate";
     src: url(./assets/fonts/SF\ Pixelate.ttf);
@@ -25,11 +27,12 @@ header {
 }
 
 .title {
-    margin-top: 0;
     font-size: 1.5rem;
+    margin-top: 0;
     padding: 0.3rem;
 }
 
+/* Section background */
 section {
     background-image: url(./assets/background.jpg);
     background-repeat: no-repeat;
@@ -43,8 +46,8 @@ section {
     background-color: rgba(255, 250, 254, 0.767);
     border-radius: 2%;
     float: right;
-    padding: 1.5rem;
     max-width: 20%;
+    padding: 1.5rem;
 }
 
 h2 {
@@ -53,91 +56,108 @@ h2 {
 }
 
 main {
-    line-height: 1.1rem;
     font-family: "PT Mono", monospace;
     font-size: 0.8rem;
+    line-height: 1.1rem;
 }
 
+/* Margin-bottom of two tags */
 .mb {
     margin-bottom: 1rem;
 }
 
+/* Applying to both */
 input,
 select {
     border: none;
     border-radius: 0.4rem;
     box-sizing: border-box;
+    font-family: "PT Mono", monospace;
     letter-spacing: 1px;
     margin-bottom: 0.6rem;
     padding: 0.5rem;
     height: 2.2rem;
     width: 100%;
-    font-family: "PT Mono", monospace;
-
 }
 
+/* Erasing all browser arrow appearance to insert a custom arrow */
 select {
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
     background-image: url(./assets/arrow.png);
+    background-position: calc(100% - 10px) center;
     background-repeat: no-repeat;
     background-size: 1.2rem;
-    background-position: calc(100% - 10px) center;
 }
 
+/* Applying only on submit input */
 input[type="submit"] {
     color: whitesmoke;
-    font-weight: bolder;
-    font-size: medium;
     font-family: "SF Pixelate", monospace;
+    font-size: medium;
+    font-weight: bolder;
+
 }
 
+/* Applying color on header and submit input */
 header,
 input[type="submit"] {
     background-color: rgb(144, 47, 224);
 }
 
 footer {
-    box-sizing: border-box;
     background-color: #161616;
-    padding: 3rem;
+    box-sizing: border-box;
     color: white;
+    padding: 3rem;
     text-align: center;
 }
 
+/* Pixelated picture */
 #pic {
     border-radius: 2%;
-    max-width: 17rem;
     display: inline-block;
+    max-width: 17rem;
 }
 
 article {
     display: inline-block;
-    text-align: justify;
     margin: auto;
     max-width: 40%;
-    margin-left: 1rem;
+    margin-left: 2rem;
+    text-align: left;
 }
 
 h3 {
     font-family: "SF Pixelate", monospace;
-    font-size: 1.7rem
+    font-size: 1.7rem;
 }
 
+/* Applying only to article paragraphs */
 article p {
     font-family: "PT Mono", monospace;
 }
 
+/* Applying to both article header and paragraphs */
 h3,
 article p {
     margin-bottom: 1rem;
 }
 
+/* Author message */
 #excelsior {
     font-size: 0.8rem;
     color: #6e6d6d;
     ;
+}
+
+/* Responsive layout based on many screen sizes */
+@media screen and (max-width:840px) {
+    article {
+        max-width: 45%;
+    }
+
 }
 
 @media screen and (max-width: 730px) {
@@ -159,6 +179,7 @@ article p {
     article {
         margin-left: 0;
         max-width: 100%;
+        text-align: justify;
     }
 
     h3 {
@@ -183,6 +204,7 @@ article p {
 
     .title {
         font-size: 1.6rem;
+        padding-top: 0.3rem;
     }
 
     .formcontainer {
@@ -196,13 +218,18 @@ article p {
         font-size: 1.5rem;
     }
 
+    .formcontainer {
+        max-width: 60%;
+    }
+
     #pic {
         max-width: 15rem;
     }
 
-    .formcontainer {
-        max-width: 60%;
+    article {
+        font-size: 0.93rem;
     }
+
 }
 
 @media screen and (max-width: 350px) {
@@ -215,7 +242,7 @@ article p {
         max-width: 70%;
     }
 
-    footer #pic {
+    #pic {
         max-width: 13.5rem;
     }
 
@@ -247,8 +274,14 @@ article p {
         max-width: 11.5rem;
     }
 
+    article {
+        font-size: 0.8rem;
+    }
+
     #excelsior {
         font-size: 0.5rem;
     }
 
 }
+
+/* That's it, thanks for reading! */
