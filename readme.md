@@ -57,7 +57,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 <span>
     <img alt="luisf-html" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="luisf-css" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
-    <img alt-"luisf-chimp" height="50rem" src="./assets/chimp.png">
+    <img alt="luisf-chimp" height="50rem" src="./assets/chimp.png">
 </span><br><br>
 
 <h2>💡 Contribution</h2>

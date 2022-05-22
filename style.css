@@ -72,8 +72,8 @@ select {
     border: none;
     border-radius: 0.4rem;
     box-sizing: border-box;
-    font-family: "PT Mono", monospace;
-    letter-spacing: 1px;
+    font-family: monospace;
+    letter-spacing: 0.3px;
     margin-bottom: 0.6rem;
     padding: 0.5rem;
     height: 2.2rem;
