@@ -55,9 +55,10 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 <h2>💽 Tech Stack</h2>
 <h4>The following languages were used to build this project:</h3>
 <span>
-    <img align="center" alt="luisf-html" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="luisf-css" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</span><br><br>
+    <img alt="luisf-html" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="luisf-css" height="70rem" width="80rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
+    <img alt-"luisf-chimp" height="50rem" src="./assets/chimp.png">
+</span><br><br><br>
 
 <h2>💡 Contribution</h2>
 <h4>
