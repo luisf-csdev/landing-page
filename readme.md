@@ -31,7 +31,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 
 <h2>📍 Features</h2>
 
-- [x] E-mail capture with Mailchimp integration
+- [x] E-mail capture with MailChimp integration
 - [x] Many game genres
 - [x] Mobile responsively
 <br>
