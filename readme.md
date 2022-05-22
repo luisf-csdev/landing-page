@@ -62,7 +62,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 <h2>💡 Contribution</h2>
 <h4>
     <img alt="progbr-logo" width="70rem" src="https://programadorbr.com/static/media/logo.7fe897a1.svg"><br><br>
-    This project is based in a study-code made by Igor Oliveira from ProgramadorBR FullStack Course
+    This project is based in a study-code made by Igor Oliveira from ProgramadorBR FullStack course.
 </h4><br><br>
 
 <h5 align="center">
