@@ -37,7 +37,7 @@ Feel free to fork the code and modify the info to solve your needs 😀</p><br>
 <br>
 
 <h2>
-    🛬 Demo ⏩ <a href="https://luisf-csdev.github.io/landing_page/">(🕹️run)</a>
+    🛬 Demo ⏩ <a href="https://luisf-csdev.github.io/landing-page/">(🕹️run)</a>
 </h2>
 <div align="center">
     <img alt="print" width="800rem" src="./assets/img-1.png"><br>
